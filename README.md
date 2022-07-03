@@ -296,7 +296,7 @@ Sitemap: https://example.com/my-custom-sitemap-3.xml
 
 - `getServerSideSitemapIndex`: Generates index sitemaps based on urls provided and returns `application/xml` response.
 
-- `getServerSideSitemap`: Generates sitemap based on field entires and returns `application/xml` response.
+- `getServerSideSitemap`: Generates sitemap based on field entries and returns `application/xml` response.
 
 ### Server side index-sitemaps (getServerSideSitemapIndex)
 
